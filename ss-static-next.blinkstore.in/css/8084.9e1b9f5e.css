@@ -1,0 +1,24 @@
+.whatsapp-container[data-v-bbe755e8] {
+    bottom: 74px;
+    right: 16px
+}
+
+@media screen and (min-width:768px) {
+    .whatsapp-container[data-v-bbe755e8] {
+        bottom: 80px;
+        right: 24px
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .whatsapp-container[data-v-bbe755e8] {
+        bottom: 40px;
+        right: 40px
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .dash-container[data-v-bbe755e8] {
+        min-height: 100vh
+    }
+}
